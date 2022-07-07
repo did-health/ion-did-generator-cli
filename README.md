@@ -1,3 +1,6 @@
+Uage:
+node did.js
+
 Tutorial: How to create a DID on the ION network
 Step by step guide on how to create a decentralised identifier on the ION network.
 
